@@ -3,17 +3,20 @@ Dan Pavol Dylan
 
 High speed racing set in space using hovercraft cars, sometimes set on various planets.-
 ...
-World Background
-main differences in your game world
+As opposed to most racing games, it is set in space
 ...
-Pillars
-3-4 fundementals of this game
+Speed
+Control
+Gravity
+Diverging paths
 ...
-30 second gameplay description
-describe what its like to play the essence of the game loop
+It's similar to other racing games with the key difference being that you drive hovercraft cars that are moving 
+at the speed of land-speed record vehicles. There is much less room for error because any contact with obstacles will destroy your
+vehicle, with the exception of touching other vehicles. There are a variety of paths to choose on the various courses aswell and
+the game includes an open world segment.
 ...
-Features points
-key selling points of your game
+Solid online gameplay, no lag
+Tight controls
+Intense gameplay with high consequences for error
 ...
-Market analysis
-similar games , typical customer, expected sales
+Similar games would be F-Zero, Forza, and Need for Speed
