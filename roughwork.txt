@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Need for Space
 Dan Pavol Dylan
 
@@ -20,3 +21,48 @@ Tight controls
 Intense gameplay with high consequences for error
 ...
 Similar games would be F-Zero, Forza, and Need for Speed
+=======
+Title - Need for speed space
+insert team member names here
+Dan Carroll - C00272187
+
+Elevator pitch 
+Describe your game in 30 seconds or less
+Your in space, theres a huge floating race track, you need to beat the rest of the players and/or ai
+to the finish line,astroids, solar flares are all obsticals that will make the race a living nightmare,
+dont drive off the edge otherwise a space ship will need to pick you up and drop you back on the track loosing
+vital time.
+
+
+World Background
+main differences in your game world
+Unlike classical racing game environments you are in space dealing with all the dangers that come with the territory
+
+
+Pillars
+3-4 fundementals of this game
+Race against other players
+dodging space obsticals
+shooting space lazers at other drivers
+multiplayer
+
+
+30 second gameplay description
+describe what its like to play the essence of the game loop
+Drive through the perals of space, fight your way through hordes of other drivers who will stop at nothing to win,
+dodge manover and avoid on coming astroids and solar flares to protect you and your eyes, collect medals and throphies from
+all your victories to show off to other players on the global leaderboard
+
+
+Features points
+key selling points of your game
+Multiplayer, free to play, ranking system, fun!
+
+
+Market analysis
+similar games , typical customer, expected sales
+Wipeout 2048
+Racing fans, motorsport fans, competitive players,
+4 million units expected
+
+>>>>>>> a9b9dc6ad1b9b7fec033f9850372868d163b2f18
