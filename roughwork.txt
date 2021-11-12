@@ -1,8 +1,7 @@
-Title
-insert team member names here
+Need for Space
+Dan Pavol Dylan
 
-Elevator pitch 
-Describe your game in 30 seconds or less
+High speed racing set in space using hovercraft cars, sometimes set on various planets.-
 ...
 World Background
 main differences in your game world
