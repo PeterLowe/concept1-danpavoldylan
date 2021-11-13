@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-Need for Space
-Dan Pavol Dylan
-
-High speed racing set in space using hovercraft cars, sometimes set on various planets.-
-...
-As opposed to most racing games, it is set in space
-...
-Speed
-Control
-Gravity
-Diverging paths
-...
-It's similar to other racing games with the key difference being that you drive hovercraft cars that are moving 
-at the speed of land-speed record vehicles. There is much less room for error because any contact with obstacles will destroy your
-vehicle, with the exception of touching other vehicles. There are a variety of paths to choose on the various courses aswell and
-the game includes an open world segment.
-...
-Solid online gameplay, no lag
-Tight controls
-Intense gameplay with high consequences for error
-...
-Similar games would be F-Zero, Forza, and Need for Speed
-=======
 Title - Need for speed space
 insert team member names here
 Dan Carroll - C00272187
@@ -37,12 +13,13 @@ vital time.
 World Background
 main differences in your game world
 Unlike classical racing game environments you are in space dealing with all the dangers that come with the territory
+Set in space using hovercraft cars, sometimes set on various planets.
 
 
 Pillars
 3-4 fundementals of this game
 Race against other players
-dodging space obsticals
+dodging space obsticals and Gravity effects
 shooting space lazers at other drivers
 multiplayer
 
@@ -56,7 +33,10 @@ all your victories to show off to other players on the global leaderboard
 
 Features points
 key selling points of your game
+game includes an open world segment.
+Intense gameplay with high consequences for error
 Multiplayer, free to play, ranking system, fun!
+
 
 
 Market analysis
@@ -64,5 +44,3 @@ similar games , typical customer, expected sales
 Wipeout 2048
 Racing fans, motorsport fans, competitive players,
 4 million units expected
-
->>>>>>> a9b9dc6ad1b9b7fec033f9850372868d163b2f18
