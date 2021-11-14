@@ -2,6 +2,7 @@ Title - Need for speed space
 insert team member names here
 Dan Carroll - C00272187
 Pavol Janocko - C00272003
+Dylan Crimmings - C00273675
 
 Elevator pitch 
 Describe your game in 30 seconds or less
